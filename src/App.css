@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  cursor: pointer;
+  padding: 8px;
+  border: 1px solid #ddd;
+  margin: 4px;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+li:hover {
+  background-color: #f0f0f0;
+}
